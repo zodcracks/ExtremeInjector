@@ -1,4 +1,4 @@
-Extreme Injector
+zoD'S Injector
 ======
 This repository contains the dependencies for Visual C++ Runtime (Debug) along with other basic files necessary for version checking support.
 
